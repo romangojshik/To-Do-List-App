@@ -6,4 +6,7 @@ Users have the option to mark a task as completed by clicking on it.
 Users have the ability to delete tasks by swiping them with their finger to the left.
 
 ![1](https://github.com/romangojshik/To-Do-List-App/assets/15184733/02791fe0-9782-4920-a006-e00a5c4a23a1)
+
 ![2](https://github.com/romangojshik/To-Do-List-App/assets/15184733/2aafd944-f3e2-4ee8-974c-3c1f0ce896e4)
+
+![3](https://github.com/romangojshik/To-Do-List-App/assets/15184733/16cc2cfe-0da7-419f-8142-b7d66a40e5fe)
