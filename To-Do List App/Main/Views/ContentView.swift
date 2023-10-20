@@ -70,7 +70,8 @@ public final class ContentView: UIView {
         )
         
         // newTaskTableHeaderView
-        newTaskHeaderView.addButtonAction = {
+        newTaskHeaderView.addButtonAction = { [weak self] in
+            guard let self = self else { return }
             self.delegate?.creatNewTask()
         }
     }
